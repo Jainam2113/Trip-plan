@@ -30,7 +30,7 @@ const data = [
 	{
 		id: 5,
 		name: "Darjeeling",
-		info: "Starting in the colorful port city of Gdańsk, you'll escape the crowds and embrace the understated elegance of ready-for-prime-time Poland for 10 days. With an expert Rick Steves guide at your side, you'll experience mighty Malbork castle, the cobbly-cute village of Toruń, Poland's contemporary capital of Warsaw, the spiritual Jasna Góra Monastery, and charming Kraków — Poland's finest city. In this land of surprises — so trendy and hip, yet steeped in history — there's so much to discover. Join us for the Best of Poland in 10 Days!",
+		info: "Darjeeling, located in the Indian state of West Bengal, is renowned for its stunning Himalayan views, lush tea gardens, and colonial-era architecture. The town is famous for Darjeeling tea, which is highly prized worldwide. With its cool climate and scenic beauty, it attracts tourists seeking both adventure and relaxation. The Darjeeling Himalayan Railway, a UNESCO World Heritage Site, offers a unique and historic way to explore the regio",
 		image: "https://images.pexels.com/photos/10440693/pexels-photo-10440693.jpeg?auto=compress&cs=tinysrgb&w=600",
 		price: "78,595",
 	},
